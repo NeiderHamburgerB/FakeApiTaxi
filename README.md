@@ -25,8 +25,8 @@ POSGRESQL desplegado en aws - disponible por 5 dias
 
 Una vez tenga el proyecto corriendo estara disponible en http://localhost:3000/api/docs
 
-usuario : admin
-contraseña : se encuentra en el .env
+usuario : admin,
+contraseña : se encuentra en el archivo .env
 
 ## Documentación Postman collection
 
