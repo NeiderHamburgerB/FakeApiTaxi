@@ -13,13 +13,13 @@ POSGRESQL desplegado en aws - disponible por 5 dias
 
 1. Ubicate en la raiz de tu proyecto, agrega el archivo .env 
 2. Corre npm install, luego npm run start:dev para iniciar el proyecto
-3. Con esto ya tendras el proyecto corriendo en tu local
+3. Con esto ya tendras el proyecto corriendo en tu local en el puerto 3000
 
 ## Instalación con docker
 
 1. Ubicate en la raiz de tu proyecto, agrega el archivo .env y construye la imagen de docker con = docker build -t digitaxi .
 2. Corre la imagen con = docker run -p 3000:3000 -d digitaxi
-3. Con esto ya tendra el proyecto corriendo en tu local
+3. Con esto ya tendra el proyecto corriendo en tu local en el puerto 3000
 
 ## Documentación Swagger
 
